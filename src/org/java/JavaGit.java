@@ -7,7 +7,8 @@ public class JavaGit {
 	}
 	private void sub() {
 		System.out.println("sub");
-		System.out.println("Multiply");
+		System.out.println("Percentage");
+		System.out.println("Modulo");
 	}
 	public static void main(String[] args) {
 		JavaGit c = new JavaGit();
