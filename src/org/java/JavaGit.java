@@ -7,6 +7,7 @@ public class JavaGit {
 	}
 	private void sub() {
 		System.out.println("sub");
+		System.out.println("Divide");
 		System.out.println("Multiply");
 	}
 	public static void main(String[] args) {
